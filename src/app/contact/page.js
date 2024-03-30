@@ -1,12 +1,12 @@
 "use client";
 
 import { MainLayout } from "@/layout/MainLayout";
-import { HomePage } from "@/pages/home";
+import { Contact } from "@/pages/contact";
 
-export default function Home() {
+export default function Page() {
   return (
     <MainLayout>
-      <HomePage />
+      <Contact />
     </MainLayout>
   );
 }
