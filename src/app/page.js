@@ -1,7 +1,7 @@
 "use client";
 
 import { MainLayout } from "@/layout/MainLayout";
-import { HomePage } from "@/pages/home";
+import { HomePage } from "@/page/home";
 
 export default function Home() {
   return (

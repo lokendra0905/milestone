@@ -1,7 +1,7 @@
 "use client";
 
 import { MainLayout } from "@/layout/MainLayout";
-import { Contact } from "@/pages/contact";
+import { Contact } from "@/page/contact";
 
 export default function Page() {
   return (
